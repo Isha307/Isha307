@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite" />
-
+![Isha Shaw](https://komarev.com/ghpvc/?username=Isha307) 
