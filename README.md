@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 | GitHub Streak | GitHub Stats|
 | ----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isha307&show_icons=true&theme=graywhite) | ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite)|<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite" />|
+| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isha307&show_icons=true&theme=redwhite) | ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite)|<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite" />|
 
 
 
