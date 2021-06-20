@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isha307&show_icons=true&theme=redwhite) | ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite)|<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite" />|
 
 
- ![Visitor Count](https://profile-counter.glitch.me/{ayushi7rawat}/count.svg)
+ ![Visitor Count](https://profile-counter.glitch.me/{Isha307}/count.svg)
 
 
 [twitter]: https://twitter.com/ahsi307_
