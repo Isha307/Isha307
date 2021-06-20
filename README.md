@@ -3,8 +3,7 @@
 - 🔭 I’m currently working on Open Source Program
 - 🌱 I’m currently learning DSA
 - 💬 Ask me about anything
-- 📫 How to reach me: [twitter]: https://twitter.com/ahsi307_
-[linkedin]: https://www.linkedin.com/in/isha-shaw-24b4501a2/
+- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/isha-shaw-24b4501a2/)
 
 
 ### My Tech Toolbox 🧰
