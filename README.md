@@ -27,12 +27,12 @@
 
  ![Visitor Count](https://profile-counter.glitch.me/{Isha307}/count.svg)
 
+<td style="text-align:center">
+<a href="https://www.linkedin.com/in/isha-shaw-24b4501a2/">
+<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin"></a> 
+<a href="https://twitter.com/ahsi307_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter"></a> 
+<a href="mailto:isha372002@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> 
 
-[twitter]: https://twitter.com/ahsi307_
-[gmail]: https://gmail.com
-[linkedin]: https://www.linkedin.com/in/isha-shaw-24b4501a2/
-
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repositories!</h3
 
 
