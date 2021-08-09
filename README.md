@@ -32,6 +32,7 @@
 <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin"></a> 
 <a href="https://twitter.com/ahsi307_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter"></a> 
 <a href="mailto:isha372002@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> 
+<a href="https://medium.com/@isha372002"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=medium" alt="medium"></a> 
 
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repositories!</h3
 
