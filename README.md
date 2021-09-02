@@ -1,9 +1,10 @@
 ### Hi there I am Isha Shaw👋
 
-- 🔭 I’m currently working on Open Source Program
-- 🌱 I’m currently learning DSA
-- 💬 Ask me about anything
+- 🔭 I’m currently working as Supervisor for ML in GWOC
+- 🌱 I’m currently learning DSA and Data Science
+- 💬 Ask me about ML
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/isha-shaw-24b4501a2/)
+- 🔭 Fun Fact: I lobe Cooking😆
 
 
 ### My Tech Toolbox 🧰
