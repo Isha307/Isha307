@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=tensorflow" alt="ts" width="40" height="40"/>
 <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=keras" alt="keras" width="40" height="40"/> 
 <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2" width="40" height="40"/>
- <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="django" width="40" height="40"/>
+ <img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=django" alt="django" width="40" height="40"/>
 
 </p>
 
