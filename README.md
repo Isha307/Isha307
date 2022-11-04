@@ -1,10 +1,11 @@
 ### Hi there I am Isha Shaw👋
 
 - 🔭 I’m currently exploring myself :)
-- 🌱 I’m currently learning DSA and Data Science
-- 💬 Ask me about ML
+- 😄 Pronouns: She/her
+- 🌱 I will graduate in 2023 from IIIT Kalyani, West Bengal.
+- 💬 Ask me about anything 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/isha-shaw-24b4501a2/)
-- 🔭 Fun Fact: I lobe Cooking😆
+- 🔭 Interest: Listening songs, Cooking, Watching movies
 
 
 ### My Tech Toolbox 🧰
