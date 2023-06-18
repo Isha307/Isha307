@@ -5,8 +5,8 @@
 - 🌱 I will graduate in 2023 from IIIT Kalyani, West Bengal.
 - 💬 Ask me about anything 
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/isha-shaw-24b4501a2/)
-- 🔭 Interest: Listening songs, Cooking, Watching movies
-
+- 🔭 I am currently probably napping or building something amazing.
+  
 
 ### My Tech Toolbox 🧰
 
