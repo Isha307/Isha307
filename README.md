@@ -1,41 +1,145 @@
-### Hi there I am Isha Shaw👋
+<h1 align="center">Hi there, I'm Isha Shaw 👋</h1>
 
-- 🔭 I’m currently exploring myself :)
-- 😄 Pronouns: She/her
-- 🌱 Good at telling stories with data, making complicated information easy to understand.
-- 💬 Ask me about anything 
-- 📫 I’m currently learning Machine Learning and Python
-- 🔭 Fun fact - I love to pay attention to details :)
-  
+<h3 align="center">Data Engineering & AI Enthusiast 🚀</h3>
 
-### My Tech Toolbox 🧰
-
-<p align="left">
-<img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> 
-<img src="https://i.pinimg.com/originals/50/f1/58/50f1582a95bdac10f1c3fa295c8b947b.png" alt="mysql" width="40" height="40"/>
-<img src="https://i.pinimg.com/originals/99/f8/87/99f887833c475448723d3c9ac16c179b.png" alt="C++" width="40" height="40"/> 
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=tensorflow" alt="ts" width="40" height="40"/>
-<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=keras" alt="keras" width="40" height="40"/> 
-<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=opencv" alt="cv2" width="40" height="40"/>
-<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=django" alt="django" width="40" height="40"/>
-
+<p align="center">
+I enjoy building scalable data systems, exploring distributed computing, and simplifying complex technical concepts through storytelling and writing.
 </p>
 
-| GitHub Streak | GitHub Stats|
-| ----|-----|
-| ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Isha307&show_icons=true&theme=redwhite) | ![Isha's GitHub stats](https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite)|<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Isha307&show_icons=true&theme=graywhite" />|
+---
 
+## 🌱 Currently Exploring
 
- ![Visitor Count](https://profile-counter.glitch.me/{Isha307}/count.svg)
+- Apache Spark & Distributed Systems
+- Real-Time Data Pipelines
+- AI Applications for Data Engineering
+- Cloud & Big Data Technologies
 
-<td style="text-align:center">
-<a href="https://www.linkedin.com/in/isha-shaw-24b4501a2/">
-<img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=linkedin" alt="linkedin"></a> 
-<a href="https://twitter.com/ahsi307_"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=twitter" alt="twitter"></a> 
-<a href="mailto:isha372002@gmail.com"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=gmail" alt="gmail"></a> 
-<a href="https://hashnode.com/@Ahsi"><img src="https://img.shields.io/badge/--black?style=for-the-badge&amp;logo=hashnode" alt="medium"></a> 
+---
 
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repositories!</h3
+## 💡 About Me
 
+- 🔭 Passionate about Data Engineering and AI
+- 🌱 Good at turning complicated concepts into simple stories
+- 💬 Ask me about Python, SQL, Spark, Kafka, or Data Pipelines
+- ✨ I love paying attention to details
+- 📚 Writing technical articles and sharing what I learn
 
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,mysql,cpp" />
+</p>
+
+---
+
+### ⚡ Data Engineering & Processing
+<p>
+  <img src="https://img.shields.io/badge/Apache%20Beam-FEAA2D?style=for-the-badge&logo=apache&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/PySpark-FF9900?style=for-the-badge&logo=apache&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Dataflow-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=gcp,kubernetes,docker,terraform" />
+  
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Cloud%20Run-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Compute%20Engine-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
+
+---
+
+### 🔄 CI/CD & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,jenkins,bitbucket" />
+  
+  <img src="https://img.shields.io/badge/Harness-0A0A0A?style=for-the-badge&logo=harness&logoColor=white" />
+</p>
+
+---
+
+### 🧰 Other Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+  
+  <img src="https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge" />
+  
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+</p>
+
+### Technologies I Work With
+- Python
+- SQL
+- PySpark
+- Apache Beam
+- Kafka
+- BigQuery
+- Dataflow
+- Airflow
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Isha307&theme=radical" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Isha307&show_icons=true&theme=radical" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- Virtual Self Defense Trainer
+- Distributed Spark Cluster
+
+---
+
+## 📝 Latest Articles
+
+- Understanding Apache Kafka for Beginners
+- PySpark Explained Simply
+- Batch vs Stream Processing
+- Python Memory Management Explained
+
+---
+
+## 🤝 Let's Connect
+
+<p align="left">
+<a href="https://www.linkedin.com/in/isha-shaw-24b4501a2/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://medium.com/@isha372002" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+</a>
+</p>
+
+---
+
+<h3 align="center">⭐ If you like my work, consider starring my repositories!</h3>
